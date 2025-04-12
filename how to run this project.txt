@@ -1,0 +1,23 @@
+Make sure you have these installed:
+
+Python 3.x
+pip (Python package installer)
+A web browser 
+
+
+
+Step 1: Install Required Libraries
+
+Open your terminal/command prompt, navigate to the project folder, and run:
+
+pip install flask flask-socketio
+
+
+
+  Step 2: Run server.py file
+python server.py
+
+
+
+  Step 3: Run client.html file in multiple times
+firefox client.html

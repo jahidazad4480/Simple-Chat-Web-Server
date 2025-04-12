@@ -1,4 +1,4 @@
-A simple real-time chat application built with Python Flask and Socket.IO. Users can send and receive messages instantly via a web interface.
+This is a simple real-time chat application built with Python Flask and Socket.IO. Users can send and receive messages instantly via a web interface.
 
 
  Features
